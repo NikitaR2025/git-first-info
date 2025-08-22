@@ -10,6 +10,8 @@ staged
 modified
 tracked
 
+untracked -это файл, изменения которого git не отслеживает.
+
 
 ```mermaid
 flowchart TD

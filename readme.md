@@ -12,6 +12,8 @@ tracked
 
 untracked -это файл, изменения которого git не отслеживает.
 
+staged - этот статус файл получает после команды git add <file>. Этот файл также становится tracked.
+
 
 ```mermaid
 flowchart TD
